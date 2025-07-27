@@ -1,24 +1,25 @@
-# 🌱 c³d
+# c³d
 
 _pronounced "seed"_
 
-> **Building tools that grow with you** — because every great project starts with a tiny seed of an idea 🌿
+> **Building tools for things we love** — from games to utilities, we make what we need
 
 ## 👋 About Us
 
-We're **c³d**, a duo of friends who believe the best tools are the ones you build when inspiration strikes. Currently cultivating tools for [Milky Way Idle](https://milkywayidle.com), but our garden of projects is always growing!
+We're **c³d**, a group of friends who build tools for stuff we like. Whether it's game utilities, developer tools, or just something that makes life easier — if we need it, we build it.
 
 ## 🛠️ What We're Building
 
 ### 🎮 Current Focus: Milky Way Idle Tools
 
-- **Bullpen** _(coming soon)_ — Your command center for Milky Way Idle optimization
+- **MWI Types** - Fully typed DTO for the game [Milky Way Idle](https://milkywayidle.com)
+- **Bullpen** _(coming soon)_ — Your command center for [Milky Way Idle](https://milkywayidle.com)
 
-### 🌱 Growing Soon
+### 🚀 Coming Next
 
-- CLI tools for developers who like their commands crisp
-- Personal project utilities that make life easier
-- Whatever seeds of ideas sprout in our minds!
+- CLI tools for developers who value efficiency
+- Personal project utilities that solve real problems
+- Whatever interesting challenges come our way
 
 ## 💻 Our Tech Stack
 
@@ -31,23 +32,9 @@ We're **c³d**, a duo of friends who believe the best tools are the ones you bui
 
 </div>
 
-## 👥 The Gardeners
+## 📫 Get In Touch
 
-- **mathewcst** — Chief Seed Planter 🌰
-- **Noita** — Master Tool Cultivator 🔧
-
-## 🌟 Our Philosophy
-
-Just like seeds need the right conditions to grow, we believe tools should:
-
-- 🌱 Start small and simple
-- 💧 Be nurtured with user feedback
-- ☀️ Grow organically with real needs
-- 🌳 Eventually become something people rely on
-
-## 📫 Plant Ideas With Us
-
-Got a tool idea that needs cultivating? Want to help tend our digital garden?
+Have an idea? Want to collaborate? Found a bug?
 
 📧 **Email:** team@c3d.gg
 
@@ -55,8 +42,8 @@ Got a tool idea that needs cultivating? Want to help tend our digital garden?
 
 <div align="center">
 
-_"In the world of code, we're not just planting seeds — we're growing forests of functionality!"_ 🌲
+_"We build what we need, and share what works"_
 
-**c³d** © 2024 — Tools that grow on you
+**c³d** © 2025
 
 </div>
